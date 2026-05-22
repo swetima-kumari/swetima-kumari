@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-🎓 Computer Science Student passionate about **AI/ML and Full Stack Development**  
+🎓 B.Tech Computer Science (CSE) Student passionate about **AI/ML and Full Stack Development**  
 💡 I enjoy building real-world projects and exploring new technologies  
 🔬 Working on **Deep Learning, Web Apps & API Integrations**  
 🎯 Goal: Grow as a **Full Stack + AI/ML Engineer**

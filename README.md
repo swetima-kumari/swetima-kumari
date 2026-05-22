@@ -81,6 +81,12 @@ A deep learning project using stacked LSTM layers to predict future stock closin
   <a href="https://swetima-kumari.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  <a href="https://linkedin.com/in/swetima-kumari-84367128a" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:swetimak004@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
   <a href="https://github.com/swetima-kumari" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
